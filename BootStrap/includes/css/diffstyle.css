@@ -1,0 +1,132 @@
+
+#searchInput
+{
+	width: 200px;
+}
+#bigCallout
+{
+	padding-top:70px;
+	padding-right:10px;
+}
+.contentstyle
+{
+	font-size:20px;
+	margin-right:100px;
+	margin-left:0px;
+	padding-left:0px;
+	padding-right:50px;
+	font-family:cursive;
+	
+}
+.modal-footer
+{
+	text-align: center;
+	margin-top: 10px;
+	width:auto;
+	padding-left:0px;
+	padding-right:0px;
+}
+li
+{
+	display:inline;
+	padding-right:40px;
+	margin-left:20px;
+	margin-right:20px;
+
+}
+img{
+	vertical-align:middle;
+}
+#moreCourses p
+{
+	padding-top:30px;
+	padding-left:100px;
+	
+}
+.jumbotron
+{
+	background:grey;
+}
+#moreCourses h3
+{
+	text-align:center;
+	
+	
+}
+.thumbnails {
+	margin: 20px 0;
+}
+
+.thumbnail {
+	position: relative;
+}
+
+.thumbnail h3 {
+	font-size: 16px;
+	margin: 0 0 10px;
+	line-height: 20px;
+}
+
+.thumbnail .price {
+	font-size: 22px;
+	position: absolute;
+	top: -10px;
+	right: -10px;
+	padding: 10px;
+}
+
+.thumbnail .price sup {
+	font-weight: normal;
+	font-size: 12px;
+}
+
+.thumbnail span.glyphicon {
+	margin-right: 5px;
+}
+.hero
+{
+	margin:0px 40px 20px;
+	
+}
+.heroimg
+{
+	width:100%;
+}
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+	
+	.thumbnail .price {
+		font-size: 14px;
+	}
+	
+	.thumbnail .price sup {
+		font-size: 10px;
+	}
+	
+}
+
+.panel-heading
+{
+	text-align:center;
+	padding-top:40px;
+}
+
+#features {
+	text-align: center;
+	
+}
+
+#features img {
+	
+	margin: 0px 0px 20px;
+
+}
+#inputMessage {
+	margin-bottom: 15px;
+}
+.navbar-brand 
+{
+	padding-right:100px;
+	text-decoration:upper-roman;
+	text-transform:blink;
+}

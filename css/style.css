@@ -14,6 +14,7 @@ body
 	margin-top: 120px;
 
 }
+
 footer
 {
 	text-align: center;
@@ -21,10 +22,7 @@ footer
 
 	background: pink;
 }
-.threeCol
-{
-	margin-top: 160px;
-}
+
 
 
 .hero
@@ -55,18 +53,19 @@ li
 }
 
 
-#logo
+.logo
  {
-	height: 70px;
+
 	float: left;
 	margin: 0;
 
 }
 
+
 .navigation
 {
 	padding-top: 25px;
-	
+	display: inline;
 	margin-top: 10px;
 	text-align: right;
 	text-align: right;
